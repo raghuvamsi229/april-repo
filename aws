@@ -1,16 +1,16 @@
-AWS (Amazon Web Services)
+☁️ AWS (Amazon Web Services)
 Provided by Amazon Web Services
 Launched in 2006 (oldest cloud provider)
 Most widely used cloud platform 🌍
-............📌 Services..........
+..............📌 Services............
 EC2 → Virtual servers
 S3 → Storage
 RDS → Databases
 Lambda → Serverless computing
-...........🚀 Features............
+................🚀 Features...............
 Very large number of services
 High scalability & reliability
 Global data centers (regions & availability zones)
-..........👍 Best For............
+................👍 Best For..............
 Startups and enterprises
 Projects needing many service options
